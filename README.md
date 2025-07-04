@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository
 </br>
-Author name - Renuka Kale
+Author name - Renuka Kale (Sudhir)
